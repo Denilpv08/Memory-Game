@@ -2,7 +2,7 @@
 ![image](https://res.cloudinary.com/dqd5x0s7w/image/upload/v1677681149/github/memoryGameImage-min_lph2e7.png)
 
 ## 🚀DEMO
- [Deploy ](https://memory-game-sigma-plum.vercel.app/)
+ [Deploy ](https://denilpv-memory-game.netlify.app/)
 
 ## 📦Getting Started
 ```
